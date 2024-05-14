@@ -1,9 +1,9 @@
 ![logo](https://github.com/hridoy00005/hridoy00005/blob/main/Github-bg.jpg)
 <h1 align="center">Hi 👋, I'm Hridoy</h1>
 <h3 align="center">A Passionate Front End Developer From Bangladesh.</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hridoy00005&label=Profile%20views&color=0e75b6&style=flat" alt="hridoy00005" /> </p>
+<br>
 <img align="right" atl="Programming" width="350" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hridoy00005&label=Profile%20views&color=0e75b6&style=flat" alt="hridoy00005" /> </p>
 
 - 🔭 I’m currently working on [TrendMart](https://github.com/hridoy00005/TrendMart-app)
 
