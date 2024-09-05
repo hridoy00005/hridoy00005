@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [TrendMart](https://github.com/hridoy00005/TrendMart-app)
 
-- 🌱 I’m currently learning **Advace JavaScript, ReactJS, TypeScript, Next.js, Tailwind CSS, PHP**
+- 🌱 I’m currently learning **Advance JavaScript, ReactJS, TypeScript, Next.js, Tailwind CSS, PHP**
 
 - 👯 I’m looking to collaborate on [trend-mart-admin](https://github.com/ziaulh53/trend-mart-admin)
 
