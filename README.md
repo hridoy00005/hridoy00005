@@ -5,21 +5,21 @@
 <br>
 <img align="right" atl="Programming" width="350" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
-- 🔭 I’m currently working on the [WellTea](https://welltea.zeroplace.co/)
+- 🔭 I’ve worked as a front-end developer at [WellTea](https://welltea.bikolpo.com/)
   
 - 🔭 I’ve worked as a front-end developer for [TrendMart](https://github.com/hridoy00005/TrendMart-app)
 
-- 🌱 I’m currently learning **Advance JavaScript, ReactJS, TypeScript, Next.js, Tailwind CSS, PHP**
+- 🌱 I’ve skilled in **Advance JavaScript, ReactJS, TypeScript, Next.js, Tailwind CSS, PHP**
+  
+- 👯 I’d collaborated at [trend-mart-admin](https://github.com/ziaulh53/trend-mart-admin)
 
-- 👯 I’m looking to collaborate on [trend-mart-admin](https://github.com/ziaulh53/trend-mart-admin)
-
-- 🤝 I’m looking for help with [PlayHarbor-Organizer](PlayHarbor-Organizer)
+- 🤝 I’d collaborated for help with [PlayHarbor-Organizer](PlayHarbor-Organizer)
 
 - 📝 I regularly write articles on [https://medium.com/@hridoy007.lu](https://medium.com/@hridoy007.lu)
 
-- 💬 Ask me about **JavaScript, ReactJS, PHP**
+- 💬 Ask me about **JavaScript, ReactJS, Next.js, PHP**
 
-- 📫 How to reach me **hridoy007.lu@gmail.com**
+- 📫 How to reach me **hridoy007.lu@gmail.com**, [Linkedin Profile](https://www.linkedin.com/in/hridoy007-lu/)
 
 
 <h3 align="left">Connect with me:</h3>
