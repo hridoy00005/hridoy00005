@@ -5,9 +5,11 @@
 <br>
 <img align="right" atl="Programming" width="350" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif">
 
-- 🔭 I’ve worked as a front-end developer at [WellTea](https://welltea.bikolpo.com/)
+- 🔭 I’m looking to work as a front-end developer to software Projects or Company.
   
-- 🔭 I’ve worked as a front-end developer for [TrendMart](https://github.com/hridoy00005/TrendMart-app)
+- 🖆 I’ve worked as a front-end developer at [WellTea](https://welltea.bikolpo.com/)
+  
+- 🖆 I’ve worked as a front-end developer for [TrendMart](https://github.com/hridoy00005/TrendMart-app)
 
 - 🌱 I’ve skilled in **Advance JavaScript, ReactJS, TypeScript, Next.js, Tailwind CSS, PHP**
   
